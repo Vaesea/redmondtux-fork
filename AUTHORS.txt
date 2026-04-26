@@ -1,11 +1,11 @@
 AUTHORS.txt for RedmondTux
 
-by those listed in this file
+by those listed in this file under the RedmondTux section
 no website yet
 
 Version 0.0.8 (in development)
 
-August 26, 2026
+April 26, 2026
 
 CREDITS
 -------
