@@ -6,7 +6,7 @@ no website yet
 
 Version 0.0.0
 
-April 26, 2026
+April 27, 2026
 
 NOTICE! THIS GAME IS UNDER CONSTRUCTION!
 Things you'll notice:
@@ -85,7 +85,7 @@ SCORING
 -------
   Doing things like defeating enemies and collecting distros will add score.
 
-HIGHSCORE SCREN
+HIGHSCORE SCREEN
 ---------------
   NOT IMPLEMENTED
 
